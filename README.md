@@ -1,2 +1,2 @@
-# Barbearia-Alura
- Projeto realizado em aula da Alura
+# BarberVille-BarberShop Barbearia
+ Esse projeto ta em estudo ainda.
